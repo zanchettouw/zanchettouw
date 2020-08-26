@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-zanchetta-45b16a107//)](https://www.linkedin.com/in/fernando-zanchetta-45b16a107/)
 
 <h1 align="center">
-  <img src ="https://tenor.com/vGfQ.gif">
+  <img src ="https://media2.giphy.com/media/DoCIC5Pxp57qg/giphy-downsized-large.gif">
 </h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zanchettouw)](https://github.com/zanchettouw/github-readme-stats)
