@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Zanchetta</h1>
-<h3 align="center">A curious developer working on frontend, but occasionally, learn random stuffs</h3>
+<h3 align="center">A curious developer working on frontend, but occasionally, learn random stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanchettouw&label=Profile%20views&color=0e75b6&style=flat" alt="zanchettouw" /> </p>
 
